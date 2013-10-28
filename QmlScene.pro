@@ -6,7 +6,7 @@
 
 QT       += core gui opengl
 
-QT += quick qml v8
+QT += quick qml
 QT += quick-private
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
